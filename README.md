@@ -1,5 +1,5 @@
 
-# BUILD & RUN FUEGO QUASAR PROJECT!
+# BUILD & RUN COMIC PROJECT!
 
 You must install 
 
