@@ -1,0 +1,17 @@
+<div class="ctn-body">
+    <div class="ctn-title">
+        <h1>{{title}}</h1>
+    </div>
+    <div class="ctn-image">
+        <img src="{{serviceOneImg}}">
+    </div>
+    <div class="ctn-qualify">
+        <div class="doYouLike">
+            <p>¿Te gustó?</p>
+        </div>
+        <app-evaluate [getScore]='numberStars'></app-evaluate>
+        <div class="scoreIt">
+            <p>Calificalo!</p>
+        </div>
+    </div>
+</div>

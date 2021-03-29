@@ -1,0 +1,5 @@
+<div id="divs">
+    <div class="ctn-star" *ngFor="let data of getScore">
+        <div class="star {{data.isChecked}}" id="{{data.id}}" (click)="scoreSelected(data.id)"></div>
+    </div>
+</div>

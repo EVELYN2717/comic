@@ -1,0 +1,11 @@
+{
+    "context": [
+        "/info.0.json",
+        "/614/info.0.json",
+        "/json.html"
+    ],
+    "target": "https://xkcd.com/",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+}
