@@ -11,7 +11,7 @@ To deploy and run Comic proyect you should type on your termional:
     $ git clone https://github.com/EVELYN2717/comic.git
     $ cd comic
     $ npm i
-    $ npm start
+    $ npm start (This project run with a proxy conf, You must run with this command)
     $ open your browser at http://localhost:4200/comicPage
 
 You can rate the comic that uploads you.
