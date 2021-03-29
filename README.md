@@ -1,27 +1,21 @@
-# Comic
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+# BUILD & RUN FUEGO QUASAR PROJECT!
 
-## Development server
+You must install 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Angular CLI: 11.0.7
+- Node: 14.7.0
 
-## Code scaffolding
+To deploy and run Comic proyect you should type on your termional:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+    $ git clone https://github.com/EVELYN2717/comic.git
+    $ cd comic
+    $ npm i
+    $ npm start
+    $ open your browser at http://localhost:4200/comicPage
 
-## Build
+You can rate the comic that uploads you.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Remember that the page will show you a different comic when loading or refreshing it.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# ENJOY IT!
